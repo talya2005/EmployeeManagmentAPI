@@ -1,0 +1,187 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\\u05EA\u05DB\u05E0\u05D5\u05EA\u05D9\u05D9\u05E9\u05DF\\\u05DE\u05D1\u05E0\u05D9 \u05E0\u05EA\u05D5\u05E0\u05D9\u05DD \u05DE\u05D4\u05D8\\finalProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4C0035CF-52B9-4A11-8AAD-2995B9FB0A11}|finalProject\\EmployeeManagement.csproj|c:\\\u05EA\u05DB\u05E0\u05D5\u05EA\u05D9\u05D9\u05E9\u05DF\\\u05DE\u05D1\u05E0\u05D9 \u05E0\u05EA\u05D5\u05E0\u05D9\u05DD \u05DE\u05D4\u05D8\\finalproject\\finalproject\\controllers\\sickdaysandvacationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C0035CF-52B9-4A11-8AAD-2995B9FB0A11}|finalProject\\EmployeeManagement.csproj|solutionrelative:finalproject\\controllers\\sickdaysandvacationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C0035CF-52B9-4A11-8AAD-2995B9FB0A11}|finalProject\\EmployeeManagement.csproj|c:\\\u05EA\u05DB\u05E0\u05D5\u05EA\u05D9\u05D9\u05E9\u05DF\\\u05DE\u05D1\u05E0\u05D9 \u05E0\u05EA\u05D5\u05E0\u05D9\u05DD \u05DE\u05D4\u05D8\\finalproject\\finalproject\\controllers\\workdaycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C0035CF-52B9-4A11-8AAD-2995B9FB0A11}|finalProject\\EmployeeManagement.csproj|solutionrelative:finalproject\\controllers\\workdaycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C0035CF-52B9-4A11-8AAD-2995B9FB0A11}|finalProject\\EmployeeManagement.csproj|c:\\\u05EA\u05DB\u05E0\u05D5\u05EA\u05D9\u05D9\u05E9\u05DF\\\u05DE\u05D1\u05E0\u05D9 \u05E0\u05EA\u05D5\u05E0\u05D9\u05DD \u05DE\u05D4\u05D8\\finalproject\\finalproject\\controllers\\managerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C0035CF-52B9-4A11-8AAD-2995B9FB0A11}|finalProject\\EmployeeManagement.csproj|solutionrelative:finalproject\\controllers\\managerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C0035CF-52B9-4A11-8AAD-2995B9FB0A11}|finalProject\\EmployeeManagement.csproj|c:\\\u05EA\u05DB\u05E0\u05D5\u05EA\u05D9\u05D9\u05E9\u05DF\\\u05DE\u05D1\u05E0\u05D9 \u05E0\u05EA\u05D5\u05E0\u05D9\u05DD \u05DE\u05D4\u05D8\\finalproject\\finalproject\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C0035CF-52B9-4A11-8AAD-2995B9FB0A11}|finalProject\\EmployeeManagement.csproj|solutionrelative:finalproject\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{498A8235-A728-46F6-8DF6-FF50D3788906}|API\\EmployeeManagement.Core.csproj|c:\\\u05EA\u05DB\u05E0\u05D5\u05EA\u05D9\u05D9\u05E9\u05DF\\\u05DE\u05D1\u05E0\u05D9 \u05E0\u05EA\u05D5\u05E0\u05D9\u05DD \u05DE\u05D4\u05D8\\finalproject\\api\\entities\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{498A8235-A728-46F6-8DF6-FF50D3788906}|API\\EmployeeManagement.Core.csproj|solutionrelative:api\\entities\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{498A8235-A728-46F6-8DF6-FF50D3788906}|API\\EmployeeManagement.Core.csproj|c:\\\u05EA\u05DB\u05E0\u05D5\u05EA\u05D9\u05D9\u05E9\u05DF\\\u05DE\u05D1\u05E0\u05D9 \u05E0\u05EA\u05D5\u05E0\u05D9\u05DD \u05DE\u05D4\u05D8\\finalproject\\api\\entities\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{498A8235-A728-46F6-8DF6-FF50D3788906}|API\\EmployeeManagement.Core.csproj|solutionrelative:api\\entities\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96B5ED04-149B-4973-B171-0BD9DBF610EE}|EmployeeManagement.Service\\EmployeeManagement.Service.csproj|c:\\\u05EA\u05DB\u05E0\u05D5\u05EA\u05D9\u05D9\u05E9\u05DF\\\u05DE\u05D1\u05E0\u05D9 \u05E0\u05EA\u05D5\u05E0\u05D9\u05DD \u05DE\u05D4\u05D8\\finalproject\\employeemanagement.service\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96B5ED04-149B-4973-B171-0BD9DBF610EE}|EmployeeManagement.Service\\EmployeeManagement.Service.csproj|solutionrelative:employeemanagement.service\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93E43091-D274-4BD6-ABC2-1D44B8D933A8}|EmployeeManagement.Data\\EmployeeManagement.Data.csproj|c:\\\u05EA\u05DB\u05E0\u05D5\u05EA\u05D9\u05D9\u05E9\u05DF\\\u05DE\u05D1\u05E0\u05D9 \u05E0\u05EA\u05D5\u05E0\u05D9\u05DD \u05DE\u05D4\u05D8\\finalproject\\employeemanagement.data\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93E43091-D274-4BD6-ABC2-1D44B8D933A8}|EmployeeManagement.Data\\EmployeeManagement.Data.csproj|solutionrelative:employeemanagement.data\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C0035CF-52B9-4A11-8AAD-2995B9FB0A11}|finalProject\\EmployeeManagement.csproj|c:\\\u05EA\u05DB\u05E0\u05D5\u05EA\u05D9\u05D9\u05E9\u05DF\\\u05DE\u05D1\u05E0\u05D9 \u05E0\u05EA\u05D5\u05E0\u05D9\u05DD \u05DE\u05D4\u05D8\\finalproject\\finalproject\\employeemanagement.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4C0035CF-52B9-4A11-8AAD-2995B9FB0A11}|finalProject\\EmployeeManagement.csproj|solutionrelative:finalproject\\employeemanagement.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{498A8235-A728-46F6-8DF6-FF50D3788906}|API\\EmployeeManagement.Core.csproj|c:\\\u05EA\u05DB\u05E0\u05D5\u05EA\u05D9\u05D9\u05E9\u05DF\\\u05DE\u05D1\u05E0\u05D9 \u05E0\u05EA\u05D5\u05E0\u05D9\u05DD \u05DE\u05D4\u05D8\\finalproject\\api\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{498A8235-A728-46F6-8DF6-FF50D3788906}|API\\EmployeeManagement.Core.csproj|solutionrelative:api\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SickDaysAndVacationsController.cs",
+              "DocumentMoniker": "C:\\\u05EA\u05DB\u05E0\u05D5\u05EA\u05D9\u05D9\u05E9\u05DF\\\u05DE\u05D1\u05E0\u05D9 \u05E0\u05EA\u05D5\u05E0\u05D9\u05DD \u05DE\u05D4\u05D8\\finalProject\\finalProject\\Controllers\\SickDaysAndVacationsController.cs",
+              "RelativeDocumentMoniker": "finalProject\\Controllers\\SickDaysAndVacationsController.cs",
+              "ToolTip": "C:\\\u05EA\u05DB\u05E0\u05D5\u05EA\u05D9\u05D9\u05E9\u05DF\\\u05DE\u05D1\u05E0\u05D9 \u05E0\u05EA\u05D5\u05E0\u05D9\u05DD \u05DE\u05D4\u05D8\\finalProject\\finalProject\\Controllers\\SickDaysAndVacationsController.cs",
+              "RelativeToolTip": "finalProject\\Controllers\\SickDaysAndVacationsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T17:40:41.743Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WorkDayController.cs",
+              "DocumentMoniker": "C:\\\u05EA\u05DB\u05E0\u05D5\u05EA\u05D9\u05D9\u05E9\u05DF\\\u05DE\u05D1\u05E0\u05D9 \u05E0\u05EA\u05D5\u05E0\u05D9\u05DD \u05DE\u05D4\u05D8\\finalProject\\finalProject\\Controllers\\WorkDayController.cs",
+              "RelativeDocumentMoniker": "finalProject\\Controllers\\WorkDayController.cs",
+              "ToolTip": "C:\\\u05EA\u05DB\u05E0\u05D5\u05EA\u05D9\u05D9\u05E9\u05DF\\\u05DE\u05D1\u05E0\u05D9 \u05E0\u05EA\u05D5\u05E0\u05D9\u05DD \u05DE\u05D4\u05D8\\finalProject\\finalProject\\Controllers\\WorkDayController.cs",
+              "RelativeToolTip": "finalProject\\Controllers\\WorkDayController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T17:38:37.18Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EmployeesController.cs",
+              "DocumentMoniker": "C:\\\u05EA\u05DB\u05E0\u05D5\u05EA\u05D9\u05D9\u05E9\u05DF\\\u05DE\u05D1\u05E0\u05D9 \u05E0\u05EA\u05D5\u05E0\u05D9\u05DD \u05DE\u05D4\u05D8\\finalProject\\finalProject\\Controllers\\EmployeesController.cs",
+              "RelativeDocumentMoniker": "finalProject\\Controllers\\EmployeesController.cs",
+              "ToolTip": "C:\\\u05EA\u05DB\u05E0\u05D5\u05EA\u05D9\u05D9\u05E9\u05DF\\\u05DE\u05D1\u05E0\u05D9 \u05E0\u05EA\u05D5\u05E0\u05D9\u05DD \u05DE\u05D4\u05D8\\finalProject\\finalProject\\Controllers\\EmployeesController.cs",
+              "RelativeToolTip": "finalProject\\Controllers\\EmployeesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T17:35:46.951Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ManagersController.cs",
+              "DocumentMoniker": "C:\\\u05EA\u05DB\u05E0\u05D5\u05EA\u05D9\u05D9\u05E9\u05DF\\\u05DE\u05D1\u05E0\u05D9 \u05E0\u05EA\u05D5\u05E0\u05D9\u05DD \u05DE\u05D4\u05D8\\finalProject\\finalProject\\Controllers\\ManagersController.cs",
+              "RelativeDocumentMoniker": "finalProject\\Controllers\\ManagersController.cs",
+              "ToolTip": "C:\\\u05EA\u05DB\u05E0\u05D5\u05EA\u05D9\u05D9\u05E9\u05DF\\\u05DE\u05D1\u05E0\u05D9 \u05E0\u05EA\u05D5\u05E0\u05D9\u05DD \u05DE\u05D4\u05D8\\finalProject\\finalProject\\Controllers\\ManagersController.cs",
+              "RelativeToolTip": "finalProject\\Controllers\\ManagersController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAwAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T17:30:34.319Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\\u05EA\u05DB\u05E0\u05D5\u05EA\u05D9\u05D9\u05E9\u05DF\\\u05DE\u05D1\u05E0\u05D9 \u05E0\u05EA\u05D5\u05E0\u05D9\u05DD \u05DE\u05D4\u05D8\\finalProject\\API\\Entities\\Employee.cs",
+              "RelativeDocumentMoniker": "API\\Entities\\Employee.cs",
+              "ToolTip": "C:\\\u05EA\u05DB\u05E0\u05D5\u05EA\u05D9\u05D9\u05E9\u05DF\\\u05DE\u05D1\u05E0\u05D9 \u05E0\u05EA\u05D5\u05E0\u05D9\u05DD \u05DE\u05D4\u05D8\\finalProject\\API\\Entities\\Employee.cs",
+              "RelativeToolTip": "API\\Entities\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T17:17:41.153Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Manager.cs",
+              "DocumentMoniker": "C:\\\u05EA\u05DB\u05E0\u05D5\u05EA\u05D9\u05D9\u05E9\u05DF\\\u05DE\u05D1\u05E0\u05D9 \u05E0\u05EA\u05D5\u05E0\u05D9\u05DD \u05DE\u05D4\u05D8\\finalProject\\API\\Entities\\Manager.cs",
+              "RelativeDocumentMoniker": "API\\Entities\\Manager.cs",
+              "ToolTip": "C:\\\u05EA\u05DB\u05E0\u05D5\u05EA\u05D9\u05D9\u05E9\u05DF\\\u05DE\u05D1\u05E0\u05D9 \u05E0\u05EA\u05D5\u05E0\u05D9\u05DD \u05DE\u05D4\u05D8\\finalProject\\API\\Entities\\Manager.cs",
+              "RelativeToolTip": "API\\Entities\\Manager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T17:17:15.5Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\\u05EA\u05DB\u05E0\u05D5\u05EA\u05D9\u05D9\u05E9\u05DF\\\u05DE\u05D1\u05E0\u05D9 \u05E0\u05EA\u05D5\u05E0\u05D9\u05DD \u05DE\u05D4\u05D8\\finalProject\\EmployeeManagement.Service\\Class1.cs",
+              "RelativeDocumentMoniker": "EmployeeManagement.Service\\Class1.cs",
+              "ToolTip": "C:\\\u05EA\u05DB\u05E0\u05D5\u05EA\u05D9\u05D9\u05E9\u05DF\\\u05DE\u05D1\u05E0\u05D9 \u05E0\u05EA\u05D5\u05E0\u05D9\u05DD \u05DE\u05D4\u05D8\\finalProject\\EmployeeManagement.Service\\Class1.cs",
+              "RelativeToolTip": "EmployeeManagement.Service\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T17:08:37.628Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\\u05EA\u05DB\u05E0\u05D5\u05EA\u05D9\u05D9\u05E9\u05DF\\\u05DE\u05D1\u05E0\u05D9 \u05E0\u05EA\u05D5\u05E0\u05D9\u05DD \u05DE\u05D4\u05D8\\finalProject\\EmployeeManagement.Data\\Class1.cs",
+              "RelativeDocumentMoniker": "EmployeeManagement.Data\\Class1.cs",
+              "ToolTip": "C:\\\u05EA\u05DB\u05E0\u05D5\u05EA\u05D9\u05D9\u05E9\u05DF\\\u05DE\u05D1\u05E0\u05D9 \u05E0\u05EA\u05D5\u05E0\u05D9\u05DD \u05DE\u05D4\u05D8\\finalProject\\EmployeeManagement.Data\\Class1.cs",
+              "RelativeToolTip": "EmployeeManagement.Data\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T17:08:07.019Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EmployeeManagement.csproj",
+              "DocumentMoniker": "C:\\\u05EA\u05DB\u05E0\u05D5\u05EA\u05D9\u05D9\u05E9\u05DF\\\u05DE\u05D1\u05E0\u05D9 \u05E0\u05EA\u05D5\u05E0\u05D9\u05DD \u05DE\u05D4\u05D8\\finalProject\\finalProject\\EmployeeManagement.csproj",
+              "RelativeDocumentMoniker": "finalProject\\EmployeeManagement.csproj",
+              "ToolTip": "C:\\\u05EA\u05DB\u05E0\u05D5\u05EA\u05D9\u05D9\u05E9\u05DF\\\u05DE\u05D1\u05E0\u05D9 \u05E0\u05EA\u05D5\u05E0\u05D9\u05DD \u05DE\u05D4\u05D8\\finalProject\\finalProject\\EmployeeManagement.csproj",
+              "RelativeToolTip": "finalProject\\EmployeeManagement.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-10T17:06:24.418Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\\u05EA\u05DB\u05E0\u05D5\u05EA\u05D9\u05D9\u05E9\u05DF\\\u05DE\u05D1\u05E0\u05D9 \u05E0\u05EA\u05D5\u05E0\u05D9\u05DD \u05DE\u05D4\u05D8\\finalProject\\API\\Class1.cs",
+              "RelativeDocumentMoniker": "API\\Class1.cs",
+              "ToolTip": "C:\\\u05EA\u05DB\u05E0\u05D5\u05EA\u05D9\u05D9\u05E9\u05DF\\\u05DE\u05D1\u05E0\u05D9 \u05E0\u05EA\u05D5\u05E0\u05D9\u05DD \u05DE\u05D4\u05D8\\finalProject\\API\\Class1.cs",
+              "RelativeToolTip": "API\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T17:02:00.577Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
