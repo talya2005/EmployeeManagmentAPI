@@ -1,0 +1,39 @@
+C:\תכנותיישן\.NET\finalProject\API\bin\Debug\net8.0\EmployeeManagement.Core.deps.json
+C:\תכנותיישן\.NET\finalProject\API\bin\Debug\net8.0\EmployeeManagement.Core.dll
+C:\תכנותיישן\.NET\finalProject\API\bin\Debug\net8.0\EmployeeManagement.Core.pdb
+C:\תכנותיישן\.NET\finalProject\API\obj\Debug\net8.0\EmployeeManagement.Core.csproj.AssemblyReference.cache
+C:\תכנותיישן\.NET\finalProject\API\obj\Debug\net8.0\EmployeeManagement.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\תכנותיישן\.NET\finalProject\API\obj\Debug\net8.0\EmployeeManagement.Core.AssemblyInfoInputs.cache
+C:\תכנותיישן\.NET\finalProject\API\obj\Debug\net8.0\EmployeeManagement.Core.AssemblyInfo.cs
+C:\תכנותיישן\.NET\finalProject\API\obj\Debug\net8.0\EmployeeManagement.Core.csproj.CoreCompileInputs.cache
+C:\תכנותיישן\.NET\finalProject\API\obj\Debug\net8.0\EmployeeManagement.Core.sourcelink.json
+C:\תכנותיישן\.NET\finalProject\API\obj\Debug\net8.0\EmployeeManagement.Core.dll
+C:\תכנותיישן\.NET\finalProject\API\obj\Debug\net8.0\refint\EmployeeManagement.Core.dll
+C:\תכנותיישן\.NET\finalProject\API\obj\Debug\net8.0\EmployeeManagement.Core.pdb
+C:\תכנותיישן\.NET\finalProject\API\obj\Debug\net8.0\ref\EmployeeManagement.Core.dll
+C:\תכנותיישן\.NET\‏‏finalProject - עותק (2)\API\bin\Debug\net8.0\EmployeeManagement.Core.deps.json
+C:\תכנותיישן\.NET\‏‏finalProject - עותק (2)\API\bin\Debug\net8.0\EmployeeManagement.Core.dll
+C:\תכנותיישן\.NET\‏‏finalProject - עותק (2)\API\bin\Debug\net8.0\EmployeeManagement.Core.pdb
+C:\תכנותיישן\.NET\‏‏finalProject - עותק (2)\API\obj\Debug\net8.0\EmployeeManagement.Core.csproj.AssemblyReference.cache
+C:\תכנותיישן\.NET\‏‏finalProject - עותק (2)\API\obj\Debug\net8.0\EmployeeManagement.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\תכנותיישן\.NET\‏‏finalProject - עותק (2)\API\obj\Debug\net8.0\EmployeeManagement.Core.AssemblyInfoInputs.cache
+C:\תכנותיישן\.NET\‏‏finalProject - עותק (2)\API\obj\Debug\net8.0\EmployeeManagement.Core.AssemblyInfo.cs
+C:\תכנותיישן\.NET\‏‏finalProject - עותק (2)\API\obj\Debug\net8.0\EmployeeManagement.Core.csproj.CoreCompileInputs.cache
+C:\תכנותיישן\.NET\‏‏finalProject - עותק (2)\API\obj\Debug\net8.0\EmployeeManagement.Core.sourcelink.json
+C:\תכנותיישן\.NET\‏‏finalProject - עותק (2)\API\obj\Debug\net8.0\EmployeeManagement.Core.dll
+C:\תכנותיישן\.NET\‏‏finalProject - עותק (2)\API\obj\Debug\net8.0\refint\EmployeeManagement.Core.dll
+C:\תכנותיישן\.NET\‏‏finalProject - עותק (2)\API\obj\Debug\net8.0\EmployeeManagement.Core.pdb
+C:\תכנותיישן\.NET\‏‏finalProject - עותק (2)\API\obj\Debug\net8.0\ref\EmployeeManagement.Core.dll
+C:\תכנותיישן\.NET\עדכני‏‏finalProject - עותק (2)\API\bin\Debug\net8.0\EmployeeManagement.Core.deps.json
+C:\תכנותיישן\.NET\עדכני‏‏finalProject - עותק (2)\API\bin\Debug\net8.0\EmployeeManagement.Core.dll
+C:\תכנותיישן\.NET\עדכני‏‏finalProject - עותק (2)\API\bin\Debug\net8.0\EmployeeManagement.Core.pdb
+C:\תכנותיישן\.NET\עדכני‏‏finalProject - עותק (2)\API\obj\Debug\net8.0\EmployeeManagement.Core.csproj.AssemblyReference.cache
+C:\תכנותיישן\.NET\עדכני‏‏finalProject - עותק (2)\API\obj\Debug\net8.0\EmployeeManagement.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\תכנותיישן\.NET\עדכני‏‏finalProject - עותק (2)\API\obj\Debug\net8.0\EmployeeManagement.Core.AssemblyInfoInputs.cache
+C:\תכנותיישן\.NET\עדכני‏‏finalProject - עותק (2)\API\obj\Debug\net8.0\EmployeeManagement.Core.AssemblyInfo.cs
+C:\תכנותיישן\.NET\עדכני‏‏finalProject - עותק (2)\API\obj\Debug\net8.0\EmployeeManagement.Core.csproj.CoreCompileInputs.cache
+C:\תכנותיישן\.NET\עדכני‏‏finalProject - עותק (2)\API\obj\Debug\net8.0\EmployeeManagement.Core.sourcelink.json
+C:\תכנותיישן\.NET\עדכני‏‏finalProject - עותק (2)\API\obj\Debug\net8.0\EmployeeManagement.Core.dll
+C:\תכנותיישן\.NET\עדכני‏‏finalProject - עותק (2)\API\obj\Debug\net8.0\refint\EmployeeManagement.Core.dll
+C:\תכנותיישן\.NET\עדכני‏‏finalProject - עותק (2)\API\obj\Debug\net8.0\EmployeeManagement.Core.pdb
+C:\תכנותיישן\.NET\עדכני‏‏finalProject - עותק (2)\API\obj\Debug\net8.0\ref\EmployeeManagement.Core.dll

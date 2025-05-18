@@ -1,43 +1,50 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using AutoMapper;
+using EmployeeManagement.Core.DTO;
+using EmployeeManagement.Core.Entities;
+using EmployeeManagement.Core.Services;
+using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Http.HttpResults;
+using Microsoft.AspNetCore.Mvc;
 
 // For more information on enabling Web API for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
 
-namespace EmployeeManagement.Controllers
+namespace EmployeeManagement.API.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
     public class EmployeesController : ControllerBase
     {
-        // GET: api/<EmployeesController>
-        [HttpGet]
-        public IEnumerable<string> Get()
+
+        private readonly IEmployeesService _employeesService;
+        private readonly IMapper _mapper;
+        
+
+        public EmployeesController(IEmployeesService employeesService, IMapper mapper)
         {
-            return new string[] { "value1", "value2" };
+            _employeesService = employeesService;
+            _mapper = mapper;
         }
 
-        // GET api/<EmployeesController>/5
-        [HttpGet("{id}")]
-        public string Get(int id)
+        [Authorize(Roles = "Manager")] 
+        [HttpPost("add-employee")]
+        public async Task<IActionResult> Post([FromBody] Employee employee)
         {
-            return "value";
+            await _employeesService.PostEmployeeAsync(employee);
+            return Ok("Employee added successfully");
+        }
+        [Authorize]
+        [HttpPut("update-employee")]
+        public async Task<ActionResult<Employee>> Put([FromBody] Employee employee)
+        {
+            Employee res = await _employeesService.PutEmployeeAsync(employee);
+            return Ok(_mapper.Map<EmployeeDTO>(res));
         }
 
-        // POST api/<EmployeesController>
-        [HttpPost]
-        public void Post([FromBody] string value)
-        {
-        }
-
-        // PUT api/<EmployeesController>/5
-        [HttpPut("{id}")]
-        public void Put(int id, [FromBody] string value)
-        {
-        }
-
-        // DELETE api/<EmployeesController>/5
+        [Authorize]
         [HttpDelete("{id}")]
-        public void Delete(int id)
+        public async Task<ActionResult<Employee>> Delete(string id)
         {
+            return Ok(await _employeesService.DeleteEmployeeAsync(id));
         }
     }
 }

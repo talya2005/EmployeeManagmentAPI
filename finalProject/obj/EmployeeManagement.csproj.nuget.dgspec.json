@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\תכנותיישן\\מבני נתונים מהט\\finalProject\\finalProject\\EmployeeManagement.csproj": {}
+    "C:\\תכנותיישן\\.NET\\finalProject\\finalProject\\EmployeeManagement.csproj": {}
   },
   "projects": {
-    "C:\\תכנותיישן\\מבני נתונים מהט\\finalProject\\finalProject\\EmployeeManagement.csproj": {
+    "C:\\תכנותיישן\\.NET\\finalProject\\finalProject\\EmployeeManagement.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\תכנותיישן\\מבני נתונים מהט\\finalProject\\finalProject\\EmployeeManagement.csproj",
+        "projectUniqueName": "C:\\תכנותיישן\\.NET\\finalProject\\finalProject\\EmployeeManagement.csproj",
         "projectName": "EmployeeManagement",
-        "projectPath": "C:\\תכנותיישן\\מבני נתונים מהט\\finalProject\\finalProject\\EmployeeManagement.csproj",
+        "projectPath": "C:\\תכנותיישן\\.NET\\finalProject\\finalProject\\EmployeeManagement.csproj",
         "packagesPath": "C:\\Users\\Dell\\.nuget\\packages\\",
-        "outputPath": "C:\\תכנותיישן\\מבני נתונים מהט\\finalProject\\finalProject\\obj\\",
+        "outputPath": "C:\\תכנותיישן\\.NET\\finalProject\\finalProject\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -45,7 +45,7 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "9.0.100"
+        "SdkAnalysisLevel": "9.0.200"
       },
       "frameworks": {
         "net8.0": {
@@ -75,7 +75,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.203/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

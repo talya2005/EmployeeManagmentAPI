@@ -1,0 +1,54 @@
+C:\תכנותיישן\.NET\finalProject\EmployeeManagement.Service\bin\Debug\net8.0\EmployeeManagement.Service.deps.json
+C:\תכנותיישן\.NET\finalProject\EmployeeManagement.Service\bin\Debug\net8.0\EmployeeManagement.Service.dll
+C:\תכנותיישן\.NET\finalProject\EmployeeManagement.Service\bin\Debug\net8.0\EmployeeManagement.Service.pdb
+C:\תכנותיישן\.NET\finalProject\EmployeeManagement.Service\obj\Debug\net8.0\EmployeeManagement.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\תכנותיישן\.NET\finalProject\EmployeeManagement.Service\obj\Debug\net8.0\EmployeeManagement.Service.AssemblyInfoInputs.cache
+C:\תכנותיישן\.NET\finalProject\EmployeeManagement.Service\obj\Debug\net8.0\EmployeeManagement.Service.AssemblyInfo.cs
+C:\תכנותיישן\.NET\finalProject\EmployeeManagement.Service\obj\Debug\net8.0\EmployeeManagement.Service.csproj.CoreCompileInputs.cache
+C:\תכנותיישן\.NET\finalProject\EmployeeManagement.Service\obj\Debug\net8.0\EmployeeManagement.Service.sourcelink.json
+C:\תכנותיישן\.NET\finalProject\EmployeeManagement.Service\obj\Debug\net8.0\EmployeeManagement.Service.dll
+C:\תכנותיישן\.NET\finalProject\EmployeeManagement.Service\obj\Debug\net8.0\refint\EmployeeManagement.Service.dll
+C:\תכנותיישן\.NET\finalProject\EmployeeManagement.Service\obj\Debug\net8.0\EmployeeManagement.Service.pdb
+C:\תכנותיישן\.NET\finalProject\EmployeeManagement.Service\obj\Debug\net8.0\ref\EmployeeManagement.Service.dll
+C:\תכנותיישן\.NET\finalProject\EmployeeManagement.Service\obj\Debug\net8.0\EmployeeManagement.Service.csproj.AssemblyReference.cache
+C:\תכנותיישן\.NET\finalProject\EmployeeManagement.Service\bin\Debug\net8.0\EmployeeManagement.Core.dll
+C:\תכנותיישן\.NET\finalProject\EmployeeManagement.Service\bin\Debug\net8.0\EmployeeManagement.Data.dll
+C:\תכנותיישן\.NET\finalProject\EmployeeManagement.Service\bin\Debug\net8.0\EmployeeManagement.Core.pdb
+C:\תכנותיישן\.NET\finalProject\EmployeeManagement.Service\bin\Debug\net8.0\EmployeeManagement.Data.pdb
+C:\תכנותיישן\.NET\finalProject\EmployeeManagement.Service\obj\Debug\net8.0\Employee.23F8C8A0.Up2Date
+C:\תכנותיישן\.NET\‏‏finalProject - עותק (2)\EmployeeManagement.Service\bin\Debug\net8.0\EmployeeManagement.Service.deps.json
+C:\תכנותיישן\.NET\‏‏finalProject - עותק (2)\EmployeeManagement.Service\bin\Debug\net8.0\EmployeeManagement.Service.dll
+C:\תכנותיישן\.NET\‏‏finalProject - עותק (2)\EmployeeManagement.Service\bin\Debug\net8.0\EmployeeManagement.Service.pdb
+C:\תכנותיישן\.NET\‏‏finalProject - עותק (2)\EmployeeManagement.Service\bin\Debug\net8.0\EmployeeManagement.Core.dll
+C:\תכנותיישן\.NET\‏‏finalProject - עותק (2)\EmployeeManagement.Service\bin\Debug\net8.0\EmployeeManagement.Data.dll
+C:\תכנותיישן\.NET\‏‏finalProject - עותק (2)\EmployeeManagement.Service\bin\Debug\net8.0\EmployeeManagement.Core.pdb
+C:\תכנותיישן\.NET\‏‏finalProject - עותק (2)\EmployeeManagement.Service\bin\Debug\net8.0\EmployeeManagement.Data.pdb
+C:\תכנותיישן\.NET\‏‏finalProject - עותק (2)\EmployeeManagement.Service\obj\Debug\net8.0\EmployeeManagement.Service.csproj.AssemblyReference.cache
+C:\תכנותיישן\.NET\‏‏finalProject - עותק (2)\EmployeeManagement.Service\obj\Debug\net8.0\EmployeeManagement.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\תכנותיישן\.NET\‏‏finalProject - עותק (2)\EmployeeManagement.Service\obj\Debug\net8.0\EmployeeManagement.Service.AssemblyInfoInputs.cache
+C:\תכנותיישן\.NET\‏‏finalProject - עותק (2)\EmployeeManagement.Service\obj\Debug\net8.0\EmployeeManagement.Service.AssemblyInfo.cs
+C:\תכנותיישן\.NET\‏‏finalProject - עותק (2)\EmployeeManagement.Service\obj\Debug\net8.0\EmployeeManagement.Service.csproj.CoreCompileInputs.cache
+C:\תכנותיישן\.NET\‏‏finalProject - עותק (2)\EmployeeManagement.Service\obj\Debug\net8.0\EmployeeManagement.Service.sourcelink.json
+C:\תכנותיישן\.NET\‏‏finalProject - עותק (2)\EmployeeManagement.Service\obj\Debug\net8.0\Employee.23F8C8A0.Up2Date
+C:\תכנותיישן\.NET\‏‏finalProject - עותק (2)\EmployeeManagement.Service\obj\Debug\net8.0\EmployeeManagement.Service.dll
+C:\תכנותיישן\.NET\‏‏finalProject - עותק (2)\EmployeeManagement.Service\obj\Debug\net8.0\refint\EmployeeManagement.Service.dll
+C:\תכנותיישן\.NET\‏‏finalProject - עותק (2)\EmployeeManagement.Service\obj\Debug\net8.0\EmployeeManagement.Service.pdb
+C:\תכנותיישן\.NET\‏‏finalProject - עותק (2)\EmployeeManagement.Service\obj\Debug\net8.0\ref\EmployeeManagement.Service.dll
+C:\תכנותיישן\.NET\עדכני‏‏finalProject - עותק (2)\EmployeeManagement.Service\bin\Debug\net8.0\EmployeeManagement.Service.deps.json
+C:\תכנותיישן\.NET\עדכני‏‏finalProject - עותק (2)\EmployeeManagement.Service\bin\Debug\net8.0\EmployeeManagement.Service.dll
+C:\תכנותיישן\.NET\עדכני‏‏finalProject - עותק (2)\EmployeeManagement.Service\bin\Debug\net8.0\EmployeeManagement.Service.pdb
+C:\תכנותיישן\.NET\עדכני‏‏finalProject - עותק (2)\EmployeeManagement.Service\bin\Debug\net8.0\EmployeeManagement.Core.dll
+C:\תכנותיישן\.NET\עדכני‏‏finalProject - עותק (2)\EmployeeManagement.Service\bin\Debug\net8.0\EmployeeManagement.Data.dll
+C:\תכנותיישן\.NET\עדכני‏‏finalProject - עותק (2)\EmployeeManagement.Service\bin\Debug\net8.0\EmployeeManagement.Core.pdb
+C:\תכנותיישן\.NET\עדכני‏‏finalProject - עותק (2)\EmployeeManagement.Service\bin\Debug\net8.0\EmployeeManagement.Data.pdb
+C:\תכנותיישן\.NET\עדכני‏‏finalProject - עותק (2)\EmployeeManagement.Service\obj\Debug\net8.0\EmployeeManagement.Service.csproj.AssemblyReference.cache
+C:\תכנותיישן\.NET\עדכני‏‏finalProject - עותק (2)\EmployeeManagement.Service\obj\Debug\net8.0\EmployeeManagement.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\תכנותיישן\.NET\עדכני‏‏finalProject - עותק (2)\EmployeeManagement.Service\obj\Debug\net8.0\EmployeeManagement.Service.AssemblyInfoInputs.cache
+C:\תכנותיישן\.NET\עדכני‏‏finalProject - עותק (2)\EmployeeManagement.Service\obj\Debug\net8.0\EmployeeManagement.Service.AssemblyInfo.cs
+C:\תכנותיישן\.NET\עדכני‏‏finalProject - עותק (2)\EmployeeManagement.Service\obj\Debug\net8.0\EmployeeManagement.Service.csproj.CoreCompileInputs.cache
+C:\תכנותיישן\.NET\עדכני‏‏finalProject - עותק (2)\EmployeeManagement.Service\obj\Debug\net8.0\EmployeeManagement.Service.sourcelink.json
+C:\תכנותיישן\.NET\עדכני‏‏finalProject - עותק (2)\EmployeeManagement.Service\obj\Debug\net8.0\Employee.23F8C8A0.Up2Date
+C:\תכנותיישן\.NET\עדכני‏‏finalProject - עותק (2)\EmployeeManagement.Service\obj\Debug\net8.0\EmployeeManagement.Service.dll
+C:\תכנותיישן\.NET\עדכני‏‏finalProject - עותק (2)\EmployeeManagement.Service\obj\Debug\net8.0\refint\EmployeeManagement.Service.dll
+C:\תכנותיישן\.NET\עדכני‏‏finalProject - עותק (2)\EmployeeManagement.Service\obj\Debug\net8.0\EmployeeManagement.Service.pdb
+C:\תכנותיישן\.NET\עדכני‏‏finalProject - עותק (2)\EmployeeManagement.Service\obj\Debug\net8.0\ref\EmployeeManagement.Service.dll

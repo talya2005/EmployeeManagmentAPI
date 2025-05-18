@@ -1,0 +1,549 @@
+C:\תכנותיישן\.NET\finalProject\finalProject\bin\Debug\net8.0\appsettings.Development.json
+C:\תכנותיישן\.NET\finalProject\finalProject\bin\Debug\net8.0\appsettings.json
+C:\תכנותיישן\.NET\finalProject\finalProject\bin\Debug\net8.0\EmployeeManagement.API.staticwebassets.endpoints.json
+C:\תכנותיישן\.NET\finalProject\finalProject\bin\Debug\net8.0\EmployeeManagement.API.exe
+C:\תכנותיישן\.NET\finalProject\finalProject\bin\Debug\net8.0\EmployeeManagement.API.deps.json
+C:\תכנותיישן\.NET\finalProject\finalProject\bin\Debug\net8.0\EmployeeManagement.API.runtimeconfig.json
+C:\תכנותיישן\.NET\finalProject\finalProject\bin\Debug\net8.0\EmployeeManagement.API.dll
+C:\תכנותיישן\.NET\finalProject\finalProject\bin\Debug\net8.0\EmployeeManagement.API.pdb
+C:\תכנותיישן\.NET\finalProject\finalProject\bin\Debug\net8.0\Azure.Core.dll
+C:\תכנותיישן\.NET\finalProject\finalProject\bin\Debug\net8.0\Azure.Identity.dll
+C:\תכנותיישן\.NET\finalProject\finalProject\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\תכנותיישן\.NET\finalProject\finalProject\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\תכנותיישן\.NET\finalProject\finalProject\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\תכנותיישן\.NET\finalProject\finalProject\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\תכנותיישן\.NET\finalProject\finalProject\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\תכנותיישן\.NET\finalProject\finalProject\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\תכנותיישן\.NET\finalProject\finalProject\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\תכנותיישן\.NET\finalProject\finalProject\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\תכנותיישן\.NET\finalProject\finalProject\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\תכנותיישן\.NET\finalProject\finalProject\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\תכנותיישן\.NET\finalProject\finalProject\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\תכנותיישן\.NET\finalProject\finalProject\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\תכנותיישן\.NET\finalProject\finalProject\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\תכנותיישן\.NET\finalProject\finalProject\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\תכנותיישן\.NET\finalProject\finalProject\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\תכנותיישן\.NET\finalProject\finalProject\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\תכנותיישן\.NET\finalProject\finalProject\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\תכנותיישן\.NET\finalProject\finalProject\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\תכנותיישן\.NET\finalProject\finalProject\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\תכנותיישן\.NET\finalProject\finalProject\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\תכנותיישן\.NET\finalProject\finalProject\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\תכנותיישן\.NET\finalProject\finalProject\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\תכנותיישן\.NET\finalProject\finalProject\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\תכנותיישן\.NET\finalProject\finalProject\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\תכנותיישן\.NET\finalProject\finalProject\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\תכנותיישן\.NET\finalProject\finalProject\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\תכנותיישן\.NET\finalProject\finalProject\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\תכנותיישן\.NET\finalProject\finalProject\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\תכנותיישן\.NET\finalProject\finalProject\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\תכנותיישן\.NET\finalProject\finalProject\bin\Debug\net8.0\System.ClientModel.dll
+C:\תכנותיישן\.NET\finalProject\finalProject\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\תכנותיישן\.NET\finalProject\finalProject\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+C:\תכנותיישן\.NET\finalProject\finalProject\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\תכנותיישן\.NET\finalProject\finalProject\bin\Debug\net8.0\System.Formats.Asn1.dll
+C:\תכנותיישן\.NET\finalProject\finalProject\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\תכנותיישן\.NET\finalProject\finalProject\bin\Debug\net8.0\System.IO.Pipelines.dll
+C:\תכנותיישן\.NET\finalProject\finalProject\bin\Debug\net8.0\System.Memory.Data.dll
+C:\תכנותיישן\.NET\finalProject\finalProject\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\תכנותיישן\.NET\finalProject\finalProject\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\תכנותיישן\.NET\finalProject\finalProject\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\תכנותיישן\.NET\finalProject\finalProject\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+C:\תכנותיישן\.NET\finalProject\finalProject\bin\Debug\net8.0\System.Text.Json.dll
+C:\תכנותיישן\.NET\finalProject\finalProject\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\תכנותיישן\.NET\finalProject\finalProject\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\תכנותיישן\.NET\finalProject\finalProject\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\תכנותיישן\.NET\finalProject\finalProject\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\תכנותיישן\.NET\finalProject\finalProject\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\תכנותיישן\.NET\finalProject\finalProject\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\תכנותיישן\.NET\finalProject\finalProject\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\תכנותיישן\.NET\finalProject\finalProject\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\תכנותיישן\.NET\finalProject\finalProject\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\תכנותיישן\.NET\finalProject\finalProject\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\תכנותיישן\.NET\finalProject\finalProject\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\תכנותיישן\.NET\finalProject\finalProject\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\תכנותיישן\.NET\finalProject\finalProject\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\תכנותיישן\.NET\finalProject\finalProject\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\תכנותיישן\.NET\finalProject\finalProject\bin\Debug\net8.0\EmployeeManagement.Core.dll
+C:\תכנותיישן\.NET\finalProject\finalProject\bin\Debug\net8.0\EmployeeManagement.Data.dll
+C:\תכנותיישן\.NET\finalProject\finalProject\bin\Debug\net8.0\EmployeeManagement.Core.pdb
+C:\תכנותיישן\.NET\finalProject\finalProject\bin\Debug\net8.0\EmployeeManagement.Data.pdb
+C:\תכנותיישן\.NET\finalProject\finalProject\obj\Debug\net8.0\EmployeeManagement.API.csproj.AssemblyReference.cache
+C:\תכנותיישן\.NET\finalProject\finalProject\obj\Debug\net8.0\EmployeeManagement.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\תכנותיישן\.NET\finalProject\finalProject\obj\Debug\net8.0\EmployeeManagement.API.AssemblyInfoInputs.cache
+C:\תכנותיישן\.NET\finalProject\finalProject\obj\Debug\net8.0\EmployeeManagement.API.AssemblyInfo.cs
+C:\תכנותיישן\.NET\finalProject\finalProject\obj\Debug\net8.0\EmployeeManagement.API.csproj.CoreCompileInputs.cache
+C:\תכנותיישן\.NET\finalProject\finalProject\obj\Debug\net8.0\EmployeeManagement.API.MvcApplicationPartsAssemblyInfo.cs
+C:\תכנותיישן\.NET\finalProject\finalProject\obj\Debug\net8.0\EmployeeManagement.API.MvcApplicationPartsAssemblyInfo.cache
+C:\תכנותיישן\.NET\finalProject\finalProject\obj\Debug\net8.0\EmployeeManagement.API.sourcelink.json
+C:\תכנותיישן\.NET\finalProject\finalProject\obj\Debug\net8.0\scopedcss\bundle\EmployeeManagement.API.styles.css
+C:\תכנותיישן\.NET\finalProject\finalProject\obj\Debug\net8.0\staticwebassets.build.json
+C:\תכנותיישן\.NET\finalProject\finalProject\obj\Debug\net8.0\staticwebassets.development.json
+C:\תכנותיישן\.NET\finalProject\finalProject\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\תכנותיישן\.NET\finalProject\finalProject\obj\Debug\net8.0\staticwebassets\msbuild.EmployeeManagement.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\תכנותיישן\.NET\finalProject\finalProject\obj\Debug\net8.0\staticwebassets\msbuild.EmployeeManagement.API.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\תכנותיישן\.NET\finalProject\finalProject\obj\Debug\net8.0\staticwebassets\msbuild.build.EmployeeManagement.API.props
+C:\תכנותיישן\.NET\finalProject\finalProject\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.EmployeeManagement.API.props
+C:\תכנותיישן\.NET\finalProject\finalProject\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.EmployeeManagement.API.props
+C:\תכנותיישן\.NET\finalProject\finalProject\obj\Debug\net8.0\staticwebassets.pack.json
+C:\תכנותיישן\.NET\finalProject\finalProject\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\תכנותיישן\.NET\finalProject\finalProject\obj\Debug\net8.0\Employee.3E9A2D24.Up2Date
+C:\תכנותיישן\.NET\finalProject\finalProject\obj\Debug\net8.0\EmployeeManagement.API.dll
+C:\תכנותיישן\.NET\finalProject\finalProject\obj\Debug\net8.0\refint\EmployeeManagement.API.dll
+C:\תכנותיישן\.NET\finalProject\finalProject\obj\Debug\net8.0\EmployeeManagement.API.pdb
+C:\תכנותיישן\.NET\finalProject\finalProject\obj\Debug\net8.0\EmployeeManagement.API.genruntimeconfig.cache
+C:\תכנותיישן\.NET\finalProject\finalProject\obj\Debug\net8.0\ref\EmployeeManagement.API.dll
+C:\תכנותיישן\.NET\finalProject\finalProject\bin\Debug\net8.0\Humanizer.dll
+C:\תכנותיישן\.NET\finalProject\finalProject\bin\Debug\net8.0\Microsoft.Build.Locator.dll
+C:\תכנותיישן\.NET\finalProject\finalProject\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\תכנותיישן\.NET\finalProject\finalProject\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\תכנותיישן\.NET\finalProject\finalProject\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\תכנותיישן\.NET\finalProject\finalProject\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\תכנותיישן\.NET\finalProject\finalProject\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+C:\תכנותיישן\.NET\finalProject\finalProject\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\תכנותיישן\.NET\finalProject\finalProject\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\תכנותיישן\.NET\finalProject\finalProject\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\תכנותיישן\.NET\finalProject\finalProject\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\תכנותיישן\.NET\finalProject\finalProject\bin\Debug\net8.0\System.CodeDom.dll
+C:\תכנותיישן\.NET\finalProject\finalProject\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\תכנותיישן\.NET\finalProject\finalProject\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\תכנותיישן\.NET\finalProject\finalProject\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\תכנותיישן\.NET\finalProject\finalProject\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\תכנותיישן\.NET\finalProject\finalProject\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\תכנותיישן\.NET\finalProject\finalProject\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\תכנותיישן\.NET\finalProject\finalProject\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\תכנותיישן\.NET\finalProject\finalProject\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\תכנותיישן\.NET\finalProject\finalProject\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\תכנותיישן\.NET\finalProject\finalProject\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\תכנותיישן\.NET\finalProject\finalProject\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\תכנותיישן\.NET\finalProject\finalProject\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\תכנותיישן\.NET\finalProject\finalProject\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\תכנותיישן\.NET\finalProject\finalProject\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\תכנותיישן\.NET\finalProject\finalProject\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\תכנותיישן\.NET\finalProject\finalProject\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\תכנותיישן\.NET\finalProject\finalProject\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\תכנותיישן\.NET\finalProject\finalProject\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\תכנותיישן\.NET\finalProject\finalProject\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\תכנותיישן\.NET\finalProject\finalProject\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\תכנותיישן\.NET\finalProject\finalProject\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\תכנותיישן\.NET\finalProject\finalProject\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\תכנותיישן\.NET\finalProject\finalProject\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\תכנותיישן\.NET\finalProject\finalProject\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\תכנותיישן\.NET\finalProject\finalProject\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\תכנותיישן\.NET\finalProject\finalProject\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\תכנותיישן\.NET\finalProject\finalProject\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\תכנותיישן\.NET\finalProject\finalProject\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\תכנותיישן\.NET\finalProject\finalProject\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\תכנותיישן\.NET\finalProject\finalProject\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\תכנותיישן\.NET\finalProject\finalProject\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\תכנותיישן\.NET\finalProject\finalProject\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\תכנותיישן\.NET\finalProject\finalProject\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\תכנותיישן\.NET\finalProject\finalProject\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\תכנותיישן\.NET\finalProject\finalProject\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\תכנותיישן\.NET\finalProject\finalProject\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\תכנותיישן\.NET\finalProject\finalProject\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\תכנותיישן\.NET\finalProject\finalProject\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\תכנותיישן\.NET\finalProject\finalProject\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\תכנותיישן\.NET\finalProject\finalProject\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\תכנותיישן\.NET\finalProject\finalProject\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\תכנותיישן\.NET\finalProject\finalProject\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\תכנותיישן\.NET\finalProject\finalProject\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\תכנותיישן\.NET\finalProject\finalProject\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\תכנותיישן\.NET\finalProject\finalProject\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\תכנותיישן\.NET\finalProject\finalProject\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\תכנותיישן\.NET\finalProject\finalProject\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\תכנותיישן\.NET\finalProject\finalProject\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\תכנותיישן\.NET\finalProject\finalProject\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\תכנותיישן\.NET\finalProject\finalProject\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\תכנותיישן\.NET\finalProject\finalProject\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\תכנותיישן\.NET\finalProject\finalProject\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\תכנותיישן\.NET\finalProject\finalProject\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\תכנותיישן\.NET\finalProject\finalProject\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\תכנותיישן\.NET\finalProject\finalProject\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\תכנותיישן\.NET\finalProject\finalProject\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\תכנותיישן\.NET\finalProject\finalProject\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\תכנותיישן\.NET\finalProject\finalProject\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\תכנותיישן\.NET\finalProject\finalProject\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\תכנותיישן\.NET\finalProject\finalProject\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\תכנותיישן\.NET\finalProject\finalProject\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\תכנותיישן\.NET\finalProject\finalProject\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\תכנותיישן\.NET\finalProject\finalProject\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\תכנותיישן\.NET\finalProject\finalProject\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\תכנותיישן\.NET\finalProject\finalProject\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\תכנותיישן\.NET\finalProject\finalProject\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\תכנותיישן\.NET\finalProject\finalProject\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\תכנותיישן\.NET\finalProject\finalProject\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\תכנותיישן\.NET\finalProject\finalProject\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\תכנותיישן\.NET\finalProject\finalProject\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\תכנותיישן\.NET\finalProject\finalProject\bin\Debug\net8.0\EmployeeManagement.Service.dll
+C:\תכנותיישן\.NET\finalProject\finalProject\bin\Debug\net8.0\EmployeeManagement.Service.pdb
+C:\תכנותיישן\.NET\finalProject\finalProject\bin\Debug\net8.0\AutoMapper.dll
+C:\תכנותיישן\.NET\finalProject\finalProject\bin\Debug\net8.0\Microsoft.Bcl.Memory.dll
+C:\תכנותיישן\.NET\finalProject\finalProject\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\תכנותיישן\.NET\‏‏finalProject - עותק (2)\finalProject\bin\Debug\net8.0\appsettings.Development.json
+C:\תכנותיישן\.NET\‏‏finalProject - עותק (2)\finalProject\bin\Debug\net8.0\appsettings.json
+C:\תכנותיישן\.NET\‏‏finalProject - עותק (2)\finalProject\bin\Debug\net8.0\EmployeeManagement.API.staticwebassets.endpoints.json
+C:\תכנותיישן\.NET\‏‏finalProject - עותק (2)\finalProject\bin\Debug\net8.0\EmployeeManagement.API.exe
+C:\תכנותיישן\.NET\‏‏finalProject - עותק (2)\finalProject\bin\Debug\net8.0\EmployeeManagement.API.deps.json
+C:\תכנותיישן\.NET\‏‏finalProject - עותק (2)\finalProject\bin\Debug\net8.0\EmployeeManagement.API.runtimeconfig.json
+C:\תכנותיישן\.NET\‏‏finalProject - עותק (2)\finalProject\bin\Debug\net8.0\EmployeeManagement.API.dll
+C:\תכנותיישן\.NET\‏‏finalProject - עותק (2)\finalProject\bin\Debug\net8.0\EmployeeManagement.API.pdb
+C:\תכנותיישן\.NET\‏‏finalProject - עותק (2)\finalProject\bin\Debug\net8.0\AutoMapper.dll
+C:\תכנותיישן\.NET\‏‏finalProject - עותק (2)\finalProject\bin\Debug\net8.0\Azure.Core.dll
+C:\תכנותיישן\.NET\‏‏finalProject - עותק (2)\finalProject\bin\Debug\net8.0\Azure.Identity.dll
+C:\תכנותיישן\.NET\‏‏finalProject - עותק (2)\finalProject\bin\Debug\net8.0\Humanizer.dll
+C:\תכנותיישן\.NET\‏‏finalProject - עותק (2)\finalProject\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\תכנותיישן\.NET\‏‏finalProject - עותק (2)\finalProject\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\תכנותיישן\.NET\‏‏finalProject - עותק (2)\finalProject\bin\Debug\net8.0\Microsoft.Bcl.Memory.dll
+C:\תכנותיישן\.NET\‏‏finalProject - עותק (2)\finalProject\bin\Debug\net8.0\Microsoft.Build.Locator.dll
+C:\תכנותיישן\.NET\‏‏finalProject - עותק (2)\finalProject\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\תכנותיישן\.NET\‏‏finalProject - עותק (2)\finalProject\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\תכנותיישן\.NET\‏‏finalProject - עותק (2)\finalProject\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\תכנותיישן\.NET\‏‏finalProject - עותק (2)\finalProject\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\תכנותיישן\.NET\‏‏finalProject - עותק (2)\finalProject\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+C:\תכנותיישן\.NET\‏‏finalProject - עותק (2)\finalProject\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\תכנותיישן\.NET\‏‏finalProject - עותק (2)\finalProject\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\תכנותיישן\.NET\‏‏finalProject - עותק (2)\finalProject\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\תכנותיישן\.NET\‏‏finalProject - עותק (2)\finalProject\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\תכנותיישן\.NET\‏‏finalProject - עותק (2)\finalProject\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\תכנותיישן\.NET\‏‏finalProject - עותק (2)\finalProject\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\תכנותיישן\.NET\‏‏finalProject - עותק (2)\finalProject\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\תכנותיישן\.NET\‏‏finalProject - עותק (2)\finalProject\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\תכנותיישן\.NET\‏‏finalProject - עותק (2)\finalProject\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\תכנותיישן\.NET\‏‏finalProject - עותק (2)\finalProject\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\תכנותיישן\.NET\‏‏finalProject - עותק (2)\finalProject\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\תכנותיישן\.NET\‏‏finalProject - עותק (2)\finalProject\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\תכנותיישן\.NET\‏‏finalProject - עותק (2)\finalProject\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\תכנותיישן\.NET\‏‏finalProject - עותק (2)\finalProject\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\תכנותיישן\.NET\‏‏finalProject - עותק (2)\finalProject\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\תכנותיישן\.NET\‏‏finalProject - עותק (2)\finalProject\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\תכנותיישן\.NET\‏‏finalProject - עותק (2)\finalProject\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\תכנותיישן\.NET\‏‏finalProject - עותק (2)\finalProject\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\תכנותיישן\.NET\‏‏finalProject - עותק (2)\finalProject\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\תכנותיישן\.NET\‏‏finalProject - עותק (2)\finalProject\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\תכנותיישן\.NET\‏‏finalProject - עותק (2)\finalProject\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\תכנותיישן\.NET\‏‏finalProject - עותק (2)\finalProject\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\תכנותיישן\.NET\‏‏finalProject - עותק (2)\finalProject\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\תכנותיישן\.NET\‏‏finalProject - עותק (2)\finalProject\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\תכנותיישן\.NET\‏‏finalProject - עותק (2)\finalProject\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\תכנותיישן\.NET\‏‏finalProject - עותק (2)\finalProject\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\תכנותיישן\.NET\‏‏finalProject - עותק (2)\finalProject\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\תכנותיישן\.NET\‏‏finalProject - עותק (2)\finalProject\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\תכנותיישן\.NET\‏‏finalProject - עותק (2)\finalProject\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\תכנותיישן\.NET\‏‏finalProject - עותק (2)\finalProject\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\תכנותיישן\.NET\‏‏finalProject - עותק (2)\finalProject\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\תכנותיישן\.NET\‏‏finalProject - עותק (2)\finalProject\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\תכנותיישן\.NET\‏‏finalProject - עותק (2)\finalProject\bin\Debug\net8.0\System.ClientModel.dll
+C:\תכנותיישן\.NET\‏‏finalProject - עותק (2)\finalProject\bin\Debug\net8.0\System.CodeDom.dll
+C:\תכנותיישן\.NET\‏‏finalProject - עותק (2)\finalProject\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\תכנותיישן\.NET\‏‏finalProject - עותק (2)\finalProject\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\תכנותיישן\.NET\‏‏finalProject - עותק (2)\finalProject\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\תכנותיישן\.NET\‏‏finalProject - עותק (2)\finalProject\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\תכנותיישן\.NET\‏‏finalProject - עותק (2)\finalProject\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\תכנותיישן\.NET\‏‏finalProject - עותק (2)\finalProject\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\תכנותיישן\.NET\‏‏finalProject - עותק (2)\finalProject\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+C:\תכנותיישן\.NET\‏‏finalProject - עותק (2)\finalProject\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\תכנותיישן\.NET\‏‏finalProject - עותק (2)\finalProject\bin\Debug\net8.0\System.Formats.Asn1.dll
+C:\תכנותיישן\.NET\‏‏finalProject - עותק (2)\finalProject\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\תכנותיישן\.NET\‏‏finalProject - עותק (2)\finalProject\bin\Debug\net8.0\System.IO.Pipelines.dll
+C:\תכנותיישן\.NET\‏‏finalProject - עותק (2)\finalProject\bin\Debug\net8.0\System.Memory.Data.dll
+C:\תכנותיישן\.NET\‏‏finalProject - עותק (2)\finalProject\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\תכנותיישן\.NET\‏‏finalProject - עותק (2)\finalProject\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\תכנותיישן\.NET\‏‏finalProject - עותק (2)\finalProject\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\תכנותיישן\.NET\‏‏finalProject - עותק (2)\finalProject\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+C:\תכנותיישן\.NET\‏‏finalProject - עותק (2)\finalProject\bin\Debug\net8.0\System.Text.Json.dll
+C:\תכנותיישן\.NET\‏‏finalProject - עותק (2)\finalProject\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\תכנותיישן\.NET\‏‏finalProject - עותק (2)\finalProject\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\תכנותיישן\.NET\‏‏finalProject - עותק (2)\finalProject\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\תכנותיישן\.NET\‏‏finalProject - עותק (2)\finalProject\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\תכנותיישן\.NET\‏‏finalProject - עותק (2)\finalProject\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\תכנותיישן\.NET\‏‏finalProject - עותק (2)\finalProject\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\תכנותיישן\.NET\‏‏finalProject - עותק (2)\finalProject\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\תכנותיישן\.NET\‏‏finalProject - עותק (2)\finalProject\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\תכנותיישן\.NET\‏‏finalProject - עותק (2)\finalProject\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\תכנותיישן\.NET\‏‏finalProject - עותק (2)\finalProject\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\תכנותיישן\.NET\‏‏finalProject - עותק (2)\finalProject\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\תכנותיישן\.NET\‏‏finalProject - עותק (2)\finalProject\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\תכנותיישן\.NET\‏‏finalProject - עותק (2)\finalProject\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\תכנותיישן\.NET\‏‏finalProject - עותק (2)\finalProject\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\תכנותיישן\.NET\‏‏finalProject - עותק (2)\finalProject\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\תכנותיישן\.NET\‏‏finalProject - עותק (2)\finalProject\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\תכנותיישן\.NET\‏‏finalProject - עותק (2)\finalProject\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\תכנותיישן\.NET\‏‏finalProject - עותק (2)\finalProject\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\תכנותיישן\.NET\‏‏finalProject - עותק (2)\finalProject\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\תכנותיישן\.NET\‏‏finalProject - עותק (2)\finalProject\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\תכנותיישן\.NET\‏‏finalProject - עותק (2)\finalProject\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\תכנותיישן\.NET\‏‏finalProject - עותק (2)\finalProject\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\תכנותיישן\.NET\‏‏finalProject - עותק (2)\finalProject\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\תכנותיישן\.NET\‏‏finalProject - עותק (2)\finalProject\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\תכנותיישן\.NET\‏‏finalProject - עותק (2)\finalProject\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\תכנותיישן\.NET\‏‏finalProject - עותק (2)\finalProject\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\תכנותיישן\.NET\‏‏finalProject - עותק (2)\finalProject\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\תכנותיישן\.NET\‏‏finalProject - עותק (2)\finalProject\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\תכנותיישן\.NET\‏‏finalProject - עותק (2)\finalProject\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\תכנותיישן\.NET\‏‏finalProject - עותק (2)\finalProject\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\תכנותיישן\.NET\‏‏finalProject - עותק (2)\finalProject\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\תכנותיישן\.NET\‏‏finalProject - עותק (2)\finalProject\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\תכנותיישן\.NET\‏‏finalProject - עותק (2)\finalProject\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\תכנותיישן\.NET\‏‏finalProject - עותק (2)\finalProject\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\תכנותיישן\.NET\‏‏finalProject - עותק (2)\finalProject\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\תכנותיישן\.NET\‏‏finalProject - עותק (2)\finalProject\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\תכנותיישן\.NET\‏‏finalProject - עותק (2)\finalProject\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\תכנותיישן\.NET\‏‏finalProject - עותק (2)\finalProject\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\תכנותיישן\.NET\‏‏finalProject - עותק (2)\finalProject\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\תכנותיישן\.NET\‏‏finalProject - עותק (2)\finalProject\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\תכנותיישן\.NET\‏‏finalProject - עותק (2)\finalProject\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\תכנותיישן\.NET\‏‏finalProject - עותק (2)\finalProject\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\תכנותיישן\.NET\‏‏finalProject - עותק (2)\finalProject\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\תכנותיישן\.NET\‏‏finalProject - עותק (2)\finalProject\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\תכנותיישן\.NET\‏‏finalProject - עותק (2)\finalProject\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\תכנותיישן\.NET\‏‏finalProject - עותק (2)\finalProject\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\תכנותיישן\.NET\‏‏finalProject - עותק (2)\finalProject\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\תכנותיישן\.NET\‏‏finalProject - עותק (2)\finalProject\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\תכנותיישן\.NET\‏‏finalProject - עותק (2)\finalProject\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\תכנותיישן\.NET\‏‏finalProject - עותק (2)\finalProject\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\תכנותיישן\.NET\‏‏finalProject - עותק (2)\finalProject\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\תכנותיישן\.NET\‏‏finalProject - עותק (2)\finalProject\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\תכנותיישן\.NET\‏‏finalProject - עותק (2)\finalProject\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\תכנותיישן\.NET\‏‏finalProject - עותק (2)\finalProject\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\תכנותיישן\.NET\‏‏finalProject - עותק (2)\finalProject\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\תכנותיישן\.NET\‏‏finalProject - עותק (2)\finalProject\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\תכנותיישן\.NET\‏‏finalProject - עותק (2)\finalProject\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\תכנותיישן\.NET\‏‏finalProject - עותק (2)\finalProject\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\תכנותיישן\.NET\‏‏finalProject - עותק (2)\finalProject\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\תכנותיישן\.NET\‏‏finalProject - עותק (2)\finalProject\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\תכנותיישן\.NET\‏‏finalProject - עותק (2)\finalProject\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\תכנותיישן\.NET\‏‏finalProject - עותק (2)\finalProject\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\תכנותיישן\.NET\‏‏finalProject - עותק (2)\finalProject\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\תכנותיישן\.NET\‏‏finalProject - עותק (2)\finalProject\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\תכנותיישן\.NET\‏‏finalProject - עותק (2)\finalProject\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\תכנותיישן\.NET\‏‏finalProject - עותק (2)\finalProject\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\תכנותיישן\.NET\‏‏finalProject - עותק (2)\finalProject\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\תכנותיישן\.NET\‏‏finalProject - עותק (2)\finalProject\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\תכנותיישן\.NET\‏‏finalProject - עותק (2)\finalProject\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\תכנותיישן\.NET\‏‏finalProject - עותק (2)\finalProject\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\תכנותיישן\.NET\‏‏finalProject - עותק (2)\finalProject\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\תכנותיישן\.NET\‏‏finalProject - עותק (2)\finalProject\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\תכנותיישן\.NET\‏‏finalProject - עותק (2)\finalProject\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\תכנותיישן\.NET\‏‏finalProject - עותק (2)\finalProject\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\תכנותיישן\.NET\‏‏finalProject - עותק (2)\finalProject\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\תכנותיישן\.NET\‏‏finalProject - עותק (2)\finalProject\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\תכנותיישן\.NET\‏‏finalProject - עותק (2)\finalProject\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\תכנותיישן\.NET\‏‏finalProject - עותק (2)\finalProject\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\תכנותיישן\.NET\‏‏finalProject - עותק (2)\finalProject\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\תכנותיישן\.NET\‏‏finalProject - עותק (2)\finalProject\bin\Debug\net8.0\EmployeeManagement.Core.dll
+C:\תכנותיישן\.NET\‏‏finalProject - עותק (2)\finalProject\bin\Debug\net8.0\EmployeeManagement.Data.dll
+C:\תכנותיישן\.NET\‏‏finalProject - עותק (2)\finalProject\bin\Debug\net8.0\EmployeeManagement.Service.dll
+C:\תכנותיישן\.NET\‏‏finalProject - עותק (2)\finalProject\bin\Debug\net8.0\EmployeeManagement.Core.pdb
+C:\תכנותיישן\.NET\‏‏finalProject - עותק (2)\finalProject\bin\Debug\net8.0\EmployeeManagement.Data.pdb
+C:\תכנותיישן\.NET\‏‏finalProject - עותק (2)\finalProject\bin\Debug\net8.0\EmployeeManagement.Service.pdb
+C:\תכנותיישן\.NET\‏‏finalProject - עותק (2)\finalProject\obj\Debug\net8.0\EmployeeManagement.API.csproj.AssemblyReference.cache
+C:\תכנותיישן\.NET\‏‏finalProject - עותק (2)\finalProject\obj\Debug\net8.0\EmployeeManagement.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\תכנותיישן\.NET\‏‏finalProject - עותק (2)\finalProject\obj\Debug\net8.0\EmployeeManagement.API.AssemblyInfoInputs.cache
+C:\תכנותיישן\.NET\‏‏finalProject - עותק (2)\finalProject\obj\Debug\net8.0\EmployeeManagement.API.AssemblyInfo.cs
+C:\תכנותיישן\.NET\‏‏finalProject - עותק (2)\finalProject\obj\Debug\net8.0\EmployeeManagement.API.csproj.CoreCompileInputs.cache
+C:\תכנותיישן\.NET\‏‏finalProject - עותק (2)\finalProject\obj\Debug\net8.0\EmployeeManagement.API.MvcApplicationPartsAssemblyInfo.cs
+C:\תכנותיישן\.NET\‏‏finalProject - עותק (2)\finalProject\obj\Debug\net8.0\EmployeeManagement.API.MvcApplicationPartsAssemblyInfo.cache
+C:\תכנותיישן\.NET\‏‏finalProject - עותק (2)\finalProject\obj\Debug\net8.0\EmployeeManagement.API.sourcelink.json
+C:\תכנותיישן\.NET\‏‏finalProject - עותק (2)\finalProject\obj\Debug\net8.0\scopedcss\bundle\EmployeeManagement.API.styles.css
+C:\תכנותיישן\.NET\‏‏finalProject - עותק (2)\finalProject\obj\Debug\net8.0\staticwebassets.build.json
+C:\תכנותיישן\.NET\‏‏finalProject - עותק (2)\finalProject\obj\Debug\net8.0\staticwebassets.development.json
+C:\תכנותיישן\.NET\‏‏finalProject - עותק (2)\finalProject\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\תכנותיישן\.NET\‏‏finalProject - עותק (2)\finalProject\obj\Debug\net8.0\staticwebassets\msbuild.EmployeeManagement.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\תכנותיישן\.NET\‏‏finalProject - עותק (2)\finalProject\obj\Debug\net8.0\staticwebassets\msbuild.EmployeeManagement.API.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\תכנותיישן\.NET\‏‏finalProject - עותק (2)\finalProject\obj\Debug\net8.0\staticwebassets\msbuild.build.EmployeeManagement.API.props
+C:\תכנותיישן\.NET\‏‏finalProject - עותק (2)\finalProject\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.EmployeeManagement.API.props
+C:\תכנותיישן\.NET\‏‏finalProject - עותק (2)\finalProject\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.EmployeeManagement.API.props
+C:\תכנותיישן\.NET\‏‏finalProject - עותק (2)\finalProject\obj\Debug\net8.0\staticwebassets.pack.json
+C:\תכנותיישן\.NET\‏‏finalProject - עותק (2)\finalProject\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\תכנותיישן\.NET\‏‏finalProject - עותק (2)\finalProject\obj\Debug\net8.0\Employee.3E9A2D24.Up2Date
+C:\תכנותיישן\.NET\‏‏finalProject - עותק (2)\finalProject\obj\Debug\net8.0\EmployeeManagement.API.dll
+C:\תכנותיישן\.NET\‏‏finalProject - עותק (2)\finalProject\obj\Debug\net8.0\refint\EmployeeManagement.API.dll
+C:\תכנותיישן\.NET\‏‏finalProject - עותק (2)\finalProject\obj\Debug\net8.0\EmployeeManagement.API.pdb
+C:\תכנותיישן\.NET\‏‏finalProject - עותק (2)\finalProject\obj\Debug\net8.0\EmployeeManagement.API.genruntimeconfig.cache
+C:\תכנותיישן\.NET\‏‏finalProject - עותק (2)\finalProject\obj\Debug\net8.0\ref\EmployeeManagement.API.dll
+C:\תכנותיישן\.NET\עדכני‏‏finalProject - עותק (2)\finalProject\bin\Debug\net8.0\appsettings.Development.json
+C:\תכנותיישן\.NET\עדכני‏‏finalProject - עותק (2)\finalProject\bin\Debug\net8.0\appsettings.json
+C:\תכנותיישן\.NET\עדכני‏‏finalProject - עותק (2)\finalProject\bin\Debug\net8.0\EmployeeManagement.API.staticwebassets.endpoints.json
+C:\תכנותיישן\.NET\עדכני‏‏finalProject - עותק (2)\finalProject\bin\Debug\net8.0\EmployeeManagement.API.exe
+C:\תכנותיישן\.NET\עדכני‏‏finalProject - עותק (2)\finalProject\bin\Debug\net8.0\EmployeeManagement.API.deps.json
+C:\תכנותיישן\.NET\עדכני‏‏finalProject - עותק (2)\finalProject\bin\Debug\net8.0\EmployeeManagement.API.runtimeconfig.json
+C:\תכנותיישן\.NET\עדכני‏‏finalProject - עותק (2)\finalProject\bin\Debug\net8.0\EmployeeManagement.API.dll
+C:\תכנותיישן\.NET\עדכני‏‏finalProject - עותק (2)\finalProject\bin\Debug\net8.0\EmployeeManagement.API.pdb
+C:\תכנותיישן\.NET\עדכני‏‏finalProject - עותק (2)\finalProject\bin\Debug\net8.0\AutoMapper.dll
+C:\תכנותיישן\.NET\עדכני‏‏finalProject - עותק (2)\finalProject\bin\Debug\net8.0\Azure.Core.dll
+C:\תכנותיישן\.NET\עדכני‏‏finalProject - עותק (2)\finalProject\bin\Debug\net8.0\Azure.Identity.dll
+C:\תכנותיישן\.NET\עדכני‏‏finalProject - עותק (2)\finalProject\bin\Debug\net8.0\Humanizer.dll
+C:\תכנותיישן\.NET\עדכני‏‏finalProject - עותק (2)\finalProject\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\תכנותיישן\.NET\עדכני‏‏finalProject - עותק (2)\finalProject\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\תכנותיישן\.NET\עדכני‏‏finalProject - עותק (2)\finalProject\bin\Debug\net8.0\Microsoft.Bcl.Memory.dll
+C:\תכנותיישן\.NET\עדכני‏‏finalProject - עותק (2)\finalProject\bin\Debug\net8.0\Microsoft.Build.Locator.dll
+C:\תכנותיישן\.NET\עדכני‏‏finalProject - עותק (2)\finalProject\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\תכנותיישן\.NET\עדכני‏‏finalProject - עותק (2)\finalProject\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\תכנותיישן\.NET\עדכני‏‏finalProject - עותק (2)\finalProject\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\תכנותיישן\.NET\עדכני‏‏finalProject - עותק (2)\finalProject\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\תכנותיישן\.NET\עדכני‏‏finalProject - עותק (2)\finalProject\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+C:\תכנותיישן\.NET\עדכני‏‏finalProject - עותק (2)\finalProject\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\תכנותיישן\.NET\עדכני‏‏finalProject - עותק (2)\finalProject\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\תכנותיישן\.NET\עדכני‏‏finalProject - עותק (2)\finalProject\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\תכנותיישן\.NET\עדכני‏‏finalProject - עותק (2)\finalProject\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\תכנותיישן\.NET\עדכני‏‏finalProject - עותק (2)\finalProject\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\תכנותיישן\.NET\עדכני‏‏finalProject - עותק (2)\finalProject\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\תכנותיישן\.NET\עדכני‏‏finalProject - עותק (2)\finalProject\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\תכנותיישן\.NET\עדכני‏‏finalProject - עותק (2)\finalProject\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\תכנותיישן\.NET\עדכני‏‏finalProject - עותק (2)\finalProject\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\תכנותיישן\.NET\עדכני‏‏finalProject - עותק (2)\finalProject\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\תכנותיישן\.NET\עדכני‏‏finalProject - עותק (2)\finalProject\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\תכנותיישן\.NET\עדכני‏‏finalProject - עותק (2)\finalProject\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\תכנותיישן\.NET\עדכני‏‏finalProject - עותק (2)\finalProject\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\תכנותיישן\.NET\עדכני‏‏finalProject - עותק (2)\finalProject\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\תכנותיישן\.NET\עדכני‏‏finalProject - עותק (2)\finalProject\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\תכנותיישן\.NET\עדכני‏‏finalProject - עותק (2)\finalProject\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\תכנותיישן\.NET\עדכני‏‏finalProject - עותק (2)\finalProject\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\תכנותיישן\.NET\עדכני‏‏finalProject - עותק (2)\finalProject\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\תכנותיישן\.NET\עדכני‏‏finalProject - עותק (2)\finalProject\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\תכנותיישן\.NET\עדכני‏‏finalProject - עותק (2)\finalProject\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\תכנותיישן\.NET\עדכני‏‏finalProject - עותק (2)\finalProject\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\תכנותיישן\.NET\עדכני‏‏finalProject - עותק (2)\finalProject\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\תכנותיישן\.NET\עדכני‏‏finalProject - עותק (2)\finalProject\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\תכנותיישן\.NET\עדכני‏‏finalProject - עותק (2)\finalProject\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\תכנותיישן\.NET\עדכני‏‏finalProject - עותק (2)\finalProject\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\תכנותיישן\.NET\עדכני‏‏finalProject - עותק (2)\finalProject\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\תכנותיישן\.NET\עדכני‏‏finalProject - עותק (2)\finalProject\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\תכנותיישן\.NET\עדכני‏‏finalProject - עותק (2)\finalProject\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\תכנותיישן\.NET\עדכני‏‏finalProject - עותק (2)\finalProject\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\תכנותיישן\.NET\עדכני‏‏finalProject - עותק (2)\finalProject\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\תכנותיישן\.NET\עדכני‏‏finalProject - עותק (2)\finalProject\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\תכנותיישן\.NET\עדכני‏‏finalProject - עותק (2)\finalProject\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\תכנותיישן\.NET\עדכני‏‏finalProject - עותק (2)\finalProject\bin\Debug\net8.0\System.ClientModel.dll
+C:\תכנותיישן\.NET\עדכני‏‏finalProject - עותק (2)\finalProject\bin\Debug\net8.0\System.CodeDom.dll
+C:\תכנותיישן\.NET\עדכני‏‏finalProject - עותק (2)\finalProject\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\תכנותיישן\.NET\עדכני‏‏finalProject - עותק (2)\finalProject\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\תכנותיישן\.NET\עדכני‏‏finalProject - עותק (2)\finalProject\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\תכנותיישן\.NET\עדכני‏‏finalProject - עותק (2)\finalProject\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\תכנותיישן\.NET\עדכני‏‏finalProject - עותק (2)\finalProject\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\תכנותיישן\.NET\עדכני‏‏finalProject - עותק (2)\finalProject\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\תכנותיישן\.NET\עדכני‏‏finalProject - עותק (2)\finalProject\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+C:\תכנותיישן\.NET\עדכני‏‏finalProject - עותק (2)\finalProject\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\תכנותיישן\.NET\עדכני‏‏finalProject - עותק (2)\finalProject\bin\Debug\net8.0\System.Formats.Asn1.dll
+C:\תכנותיישן\.NET\עדכני‏‏finalProject - עותק (2)\finalProject\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\תכנותיישן\.NET\עדכני‏‏finalProject - עותק (2)\finalProject\bin\Debug\net8.0\System.IO.Pipelines.dll
+C:\תכנותיישן\.NET\עדכני‏‏finalProject - עותק (2)\finalProject\bin\Debug\net8.0\System.Memory.Data.dll
+C:\תכנותיישן\.NET\עדכני‏‏finalProject - עותק (2)\finalProject\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\תכנותיישן\.NET\עדכני‏‏finalProject - עותק (2)\finalProject\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\תכנותיישן\.NET\עדכני‏‏finalProject - עותק (2)\finalProject\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\תכנותיישן\.NET\עדכני‏‏finalProject - עותק (2)\finalProject\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+C:\תכנותיישן\.NET\עדכני‏‏finalProject - עותק (2)\finalProject\bin\Debug\net8.0\System.Text.Json.dll
+C:\תכנותיישן\.NET\עדכני‏‏finalProject - עותק (2)\finalProject\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\תכנותיישן\.NET\עדכני‏‏finalProject - עותק (2)\finalProject\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\תכנותיישן\.NET\עדכני‏‏finalProject - עותק (2)\finalProject\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\תכנותיישן\.NET\עדכני‏‏finalProject - עותק (2)\finalProject\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\תכנותיישן\.NET\עדכני‏‏finalProject - עותק (2)\finalProject\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\תכנותיישן\.NET\עדכני‏‏finalProject - עותק (2)\finalProject\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\תכנותיישן\.NET\עדכני‏‏finalProject - עותק (2)\finalProject\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\תכנותיישן\.NET\עדכני‏‏finalProject - עותק (2)\finalProject\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\תכנותיישן\.NET\עדכני‏‏finalProject - עותק (2)\finalProject\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\תכנותיישן\.NET\עדכני‏‏finalProject - עותק (2)\finalProject\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\תכנותיישן\.NET\עדכני‏‏finalProject - עותק (2)\finalProject\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\תכנותיישן\.NET\עדכני‏‏finalProject - עותק (2)\finalProject\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\תכנותיישן\.NET\עדכני‏‏finalProject - עותק (2)\finalProject\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\תכנותיישן\.NET\עדכני‏‏finalProject - עותק (2)\finalProject\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\תכנותיישן\.NET\עדכני‏‏finalProject - עותק (2)\finalProject\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\תכנותיישן\.NET\עדכני‏‏finalProject - עותק (2)\finalProject\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\תכנותיישן\.NET\עדכני‏‏finalProject - עותק (2)\finalProject\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\תכנותיישן\.NET\עדכני‏‏finalProject - עותק (2)\finalProject\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\תכנותיישן\.NET\עדכני‏‏finalProject - עותק (2)\finalProject\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\תכנותיישן\.NET\עדכני‏‏finalProject - עותק (2)\finalProject\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\תכנותיישן\.NET\עדכני‏‏finalProject - עותק (2)\finalProject\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\תכנותיישן\.NET\עדכני‏‏finalProject - עותק (2)\finalProject\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\תכנותיישן\.NET\עדכני‏‏finalProject - עותק (2)\finalProject\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\תכנותיישן\.NET\עדכני‏‏finalProject - עותק (2)\finalProject\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\תכנותיישן\.NET\עדכני‏‏finalProject - עותק (2)\finalProject\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\תכנותיישן\.NET\עדכני‏‏finalProject - עותק (2)\finalProject\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\תכנותיישן\.NET\עדכני‏‏finalProject - עותק (2)\finalProject\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\תכנותיישן\.NET\עדכני‏‏finalProject - עותק (2)\finalProject\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\תכנותיישן\.NET\עדכני‏‏finalProject - עותק (2)\finalProject\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\תכנותיישן\.NET\עדכני‏‏finalProject - עותק (2)\finalProject\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\תכנותיישן\.NET\עדכני‏‏finalProject - עותק (2)\finalProject\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\תכנותיישן\.NET\עדכני‏‏finalProject - עותק (2)\finalProject\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\תכנותיישן\.NET\עדכני‏‏finalProject - עותק (2)\finalProject\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\תכנותיישן\.NET\עדכני‏‏finalProject - עותק (2)\finalProject\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\תכנותיישן\.NET\עדכני‏‏finalProject - עותק (2)\finalProject\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\תכנותיישן\.NET\עדכני‏‏finalProject - עותק (2)\finalProject\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\תכנותיישן\.NET\עדכני‏‏finalProject - עותק (2)\finalProject\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\תכנותיישן\.NET\עדכני‏‏finalProject - עותק (2)\finalProject\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\תכנותיישן\.NET\עדכני‏‏finalProject - עותק (2)\finalProject\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\תכנותיישן\.NET\עדכני‏‏finalProject - עותק (2)\finalProject\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\תכנותיישן\.NET\עדכני‏‏finalProject - עותק (2)\finalProject\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\תכנותיישן\.NET\עדכני‏‏finalProject - עותק (2)\finalProject\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\תכנותיישן\.NET\עדכני‏‏finalProject - עותק (2)\finalProject\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\תכנותיישן\.NET\עדכני‏‏finalProject - עותק (2)\finalProject\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\תכנותיישן\.NET\עדכני‏‏finalProject - עותק (2)\finalProject\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\תכנותיישן\.NET\עדכני‏‏finalProject - עותק (2)\finalProject\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\תכנותיישן\.NET\עדכני‏‏finalProject - עותק (2)\finalProject\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\תכנותיישן\.NET\עדכני‏‏finalProject - עותק (2)\finalProject\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\תכנותיישן\.NET\עדכני‏‏finalProject - עותק (2)\finalProject\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\תכנותיישן\.NET\עדכני‏‏finalProject - עותק (2)\finalProject\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\תכנותיישן\.NET\עדכני‏‏finalProject - עותק (2)\finalProject\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\תכנותיישן\.NET\עדכני‏‏finalProject - עותק (2)\finalProject\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\תכנותיישן\.NET\עדכני‏‏finalProject - עותק (2)\finalProject\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\תכנותיישן\.NET\עדכני‏‏finalProject - עותק (2)\finalProject\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\תכנותיישן\.NET\עדכני‏‏finalProject - עותק (2)\finalProject\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\תכנותיישן\.NET\עדכני‏‏finalProject - עותק (2)\finalProject\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\תכנותיישן\.NET\עדכני‏‏finalProject - עותק (2)\finalProject\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\תכנותיישן\.NET\עדכני‏‏finalProject - עותק (2)\finalProject\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\תכנותיישן\.NET\עדכני‏‏finalProject - עותק (2)\finalProject\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\תכנותיישן\.NET\עדכני‏‏finalProject - עותק (2)\finalProject\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\תכנותיישן\.NET\עדכני‏‏finalProject - עותק (2)\finalProject\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\תכנותיישן\.NET\עדכני‏‏finalProject - עותק (2)\finalProject\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\תכנותיישן\.NET\עדכני‏‏finalProject - עותק (2)\finalProject\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\תכנותיישן\.NET\עדכני‏‏finalProject - עותק (2)\finalProject\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\תכנותיישן\.NET\עדכני‏‏finalProject - עותק (2)\finalProject\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\תכנותיישן\.NET\עדכני‏‏finalProject - עותק (2)\finalProject\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\תכנותיישן\.NET\עדכני‏‏finalProject - עותק (2)\finalProject\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\תכנותיישן\.NET\עדכני‏‏finalProject - עותק (2)\finalProject\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\תכנותיישן\.NET\עדכני‏‏finalProject - עותק (2)\finalProject\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\תכנותיישן\.NET\עדכני‏‏finalProject - עותק (2)\finalProject\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\תכנותיישן\.NET\עדכני‏‏finalProject - עותק (2)\finalProject\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\תכנותיישן\.NET\עדכני‏‏finalProject - עותק (2)\finalProject\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\תכנותיישן\.NET\עדכני‏‏finalProject - עותק (2)\finalProject\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\תכנותיישן\.NET\עדכני‏‏finalProject - עותק (2)\finalProject\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\תכנותיישן\.NET\עדכני‏‏finalProject - עותק (2)\finalProject\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\תכנותיישן\.NET\עדכני‏‏finalProject - עותק (2)\finalProject\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\תכנותיישן\.NET\עדכני‏‏finalProject - עותק (2)\finalProject\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\תכנותיישן\.NET\עדכני‏‏finalProject - עותק (2)\finalProject\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\תכנותיישן\.NET\עדכני‏‏finalProject - עותק (2)\finalProject\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\תכנותיישן\.NET\עדכני‏‏finalProject - עותק (2)\finalProject\bin\Debug\net8.0\EmployeeManagement.Core.dll
+C:\תכנותיישן\.NET\עדכני‏‏finalProject - עותק (2)\finalProject\bin\Debug\net8.0\EmployeeManagement.Data.dll
+C:\תכנותיישן\.NET\עדכני‏‏finalProject - עותק (2)\finalProject\bin\Debug\net8.0\EmployeeManagement.Service.dll
+C:\תכנותיישן\.NET\עדכני‏‏finalProject - עותק (2)\finalProject\bin\Debug\net8.0\EmployeeManagement.Core.pdb
+C:\תכנותיישן\.NET\עדכני‏‏finalProject - עותק (2)\finalProject\bin\Debug\net8.0\EmployeeManagement.Data.pdb
+C:\תכנותיישן\.NET\עדכני‏‏finalProject - עותק (2)\finalProject\bin\Debug\net8.0\EmployeeManagement.Service.pdb
+C:\תכנותיישן\.NET\עדכני‏‏finalProject - עותק (2)\finalProject\obj\Debug\net8.0\EmployeeManagement.API.csproj.AssemblyReference.cache
+C:\תכנותיישן\.NET\עדכני‏‏finalProject - עותק (2)\finalProject\obj\Debug\net8.0\EmployeeManagement.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\תכנותיישן\.NET\עדכני‏‏finalProject - עותק (2)\finalProject\obj\Debug\net8.0\EmployeeManagement.API.AssemblyInfoInputs.cache
+C:\תכנותיישן\.NET\עדכני‏‏finalProject - עותק (2)\finalProject\obj\Debug\net8.0\EmployeeManagement.API.AssemblyInfo.cs
+C:\תכנותיישן\.NET\עדכני‏‏finalProject - עותק (2)\finalProject\obj\Debug\net8.0\EmployeeManagement.API.csproj.CoreCompileInputs.cache
+C:\תכנותיישן\.NET\עדכני‏‏finalProject - עותק (2)\finalProject\obj\Debug\net8.0\EmployeeManagement.API.MvcApplicationPartsAssemblyInfo.cs
+C:\תכנותיישן\.NET\עדכני‏‏finalProject - עותק (2)\finalProject\obj\Debug\net8.0\EmployeeManagement.API.MvcApplicationPartsAssemblyInfo.cache
+C:\תכנותיישן\.NET\עדכני‏‏finalProject - עותק (2)\finalProject\obj\Debug\net8.0\EmployeeManagement.API.sourcelink.json
+C:\תכנותיישן\.NET\עדכני‏‏finalProject - עותק (2)\finalProject\obj\Debug\net8.0\scopedcss\bundle\EmployeeManagement.API.styles.css
+C:\תכנותיישן\.NET\עדכני‏‏finalProject - עותק (2)\finalProject\obj\Debug\net8.0\staticwebassets.build.json
+C:\תכנותיישן\.NET\עדכני‏‏finalProject - עותק (2)\finalProject\obj\Debug\net8.0\staticwebassets.development.json
+C:\תכנותיישן\.NET\עדכני‏‏finalProject - עותק (2)\finalProject\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\תכנותיישן\.NET\עדכני‏‏finalProject - עותק (2)\finalProject\obj\Debug\net8.0\staticwebassets\msbuild.EmployeeManagement.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\תכנותיישן\.NET\עדכני‏‏finalProject - עותק (2)\finalProject\obj\Debug\net8.0\staticwebassets\msbuild.EmployeeManagement.API.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\תכנותיישן\.NET\עדכני‏‏finalProject - עותק (2)\finalProject\obj\Debug\net8.0\staticwebassets\msbuild.build.EmployeeManagement.API.props
+C:\תכנותיישן\.NET\עדכני‏‏finalProject - עותק (2)\finalProject\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.EmployeeManagement.API.props
+C:\תכנותיישן\.NET\עדכני‏‏finalProject - עותק (2)\finalProject\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.EmployeeManagement.API.props
+C:\תכנותיישן\.NET\עדכני‏‏finalProject - עותק (2)\finalProject\obj\Debug\net8.0\staticwebassets.pack.json
+C:\תכנותיישן\.NET\עדכני‏‏finalProject - עותק (2)\finalProject\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\תכנותיישן\.NET\עדכני‏‏finalProject - עותק (2)\finalProject\obj\Debug\net8.0\Employee.3E9A2D24.Up2Date
+C:\תכנותיישן\.NET\עדכני‏‏finalProject - עותק (2)\finalProject\obj\Debug\net8.0\EmployeeManagement.API.dll
+C:\תכנותיישן\.NET\עדכני‏‏finalProject - עותק (2)\finalProject\obj\Debug\net8.0\refint\EmployeeManagement.API.dll
+C:\תכנותיישן\.NET\עדכני‏‏finalProject - עותק (2)\finalProject\obj\Debug\net8.0\EmployeeManagement.API.pdb
+C:\תכנותיישן\.NET\עדכני‏‏finalProject - עותק (2)\finalProject\obj\Debug\net8.0\EmployeeManagement.API.genruntimeconfig.cache
+C:\תכנותיישן\.NET\עדכני‏‏finalProject - עותק (2)\finalProject\obj\Debug\net8.0\ref\EmployeeManagement.API.dll
+C:\תכנותיישן\.NET\עדכני‏‏finalProject - עותק (2)\finalProject\bin\Debug\net8.0\NLog.dll
+C:\תכנותיישן\.NET\עדכני‏‏finalProject - עותק (2)\finalProject\bin\Debug\net8.0\NLog.Extensions.Logging.dll
+C:\תכנותיישן\.NET\עדכני‏‏finalProject - עותק (2)\finalProject\bin\Debug\net8.0\NLog.Web.AspNetCore.dll

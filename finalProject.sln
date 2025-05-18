@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.12.35707.178 d17.12
+VisualStudioVersion = 17.12.35707.178
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmployeeManagement", "finalProject\EmployeeManagement.csproj", "{4C0035CF-52B9-4A11-8AAD-2995B9FB0A11}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmployeeManagement.API", "finalProject\EmployeeManagement.API.csproj", "{4C0035CF-52B9-4A11-8AAD-2995B9FB0A11}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmployeeManagement.Core", "API\EmployeeManagement.Core.csproj", "{498A8235-A728-46F6-8DF6-FF50D3788906}"
 EndProject
@@ -36,5 +36,8 @@ Global
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {05F5E816-BE1A-4880-A306-4EBBDC632CB9}
 	EndGlobalSection
 EndGlobal
